@@ -7,7 +7,7 @@ The purpose of this project is to develop a machine learning model to classify e
 This is a binary classification problem where the goal is to predict whether an email is spam (label 1) or ham (label 0) based on its content. The dataset is composed of a combination of two well-known datasets: the 2007 TREC Public Spam Corpus and the Enron-Spam Dataset. The challenge involves working with text data and building a robust model that can generalize well to unseen email messages.
 
 ## Technical Background
-- **Dataset**: [Kaggle Dataset](https://www.kaggle.com)
+- **Dataset**: [Kaggle Dataset]([https://www.kaggle.com](https://www.kaggle.com/datasets/purusinghvi/email-spam-classification-dataset))
 - **Size**: Approximately 83,446 records.
 - **NLP Techniques**: The classification of emails as spam or ham will rely heavily on natural language processing (NLP) techniques for text analysis and representation. Feature engineering can also be used to indicate special character usage or common spam keywords.
 
